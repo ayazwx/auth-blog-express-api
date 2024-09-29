@@ -1,5 +1,5 @@
 {
-  "name": "blog-backend",
+  "name": "auth-blog-express-api",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
