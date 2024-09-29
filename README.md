@@ -20,6 +20,7 @@ Clone the repo.
 ```bash
 https://github.com/ayazwx/auth-blog-express-api.git
 ```
+```bash
 cd auth-blog-express-api
 ```
 Install the dependencies.

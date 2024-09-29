@@ -3,8 +3,5 @@ dist/
 package-lock.json
 test.html
 
-certificates/
-
-public/uploads/
 
 .env.development
